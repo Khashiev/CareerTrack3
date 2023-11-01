@@ -1,6 +1,6 @@
 # Career track. Project 03
 
-В данном проекте ты познакомишься с основными советами по прохождению интервью, лайфхаками как справляться со стрессом на собеседованиях, к каким стандартным вопросом необходимо подготовиться, какие вопросы нужно задать работодателю, как успешно проходить онлайн-собеседования.  
+In this project, you will learn basic interview tips, lifehacks on how to deal with stress at interviews, what standard questions to prepare for, what questions to ask the employer, and how to successfully complete online interviews.
 
 ## Contents
 
@@ -9,274 +9,294 @@
 2. [Chapter II](#chapter-ii) \
     2.1. [General rules](#general-rules)
 3. [Chapter III](#chapter-iii) \
-    3.1. Подготовка к собеседованию  
-       - Что значит подготовиться к собеседованию?   
-       - Онлайн-собеседование   
-       - Оффлайн-собеседование   
-       - Частые вопросы от компании    
-       - Вопросы к компании     
-    3.2. Продумать заранее    
-       - Карьерные цели   
-       - Вопросы о зарплате  
-       - Неудобные и нетактичные вопросы  
-    3.3. Самопрезентация  
-       - Уметь себя представить и грамотно рассказать о себе, показать свою ценность  
-       - О чем не стоит рассказывать на собеседовании  
+    3.1. Preparing for an interview  
+       - How to prepare for an interview  
+       - Online interview  
+       - Offline interview  
+       - Common questions from the company  
+       - Questions to ask the company  
+    3.2. Think ahead  
+       - Career goals  
+       - Questions about salary  
+       - Uncomfortable and inappropriate questions  
+    3.3. Self-presentation  
+       - Know how to present yourself and talk about yourself competently, how to show your value  
+       - What you should not talk about at a job interview
 4. [Chapter IV](#chapter-iv) \
-    [Задача 1](#задача-1)    
+    [Задача](#задача)    
 5. [Chapter V](#chapter-v) 
 
-<h2 id="chapter-i" >Chapter I</h2>
+## Chapter I
 
-![Иллюстрация к проекту](misc/images/Illustration_03.jpeg)  
+![Project illustration](misc/images/Illustration_03.jpeg)
 
-<h2 id="preamble">Preamble</h2>
+## Preamble
 
-Собеседование или интервью сейчас может быть как онлайн формате, так и офлайн. Главное правило прохождение успешного собеседования - подготовка. В этом проекте мы разберем:  
+Job interviews can now be in both online and offline formats. The cardinal rule for a successful job interview is preparation. In this project, we will cover:
 
-1. Что значит подготовиться к собеседованию.  
-2. Онлайн-собеседование.   
-3. Оффлайн-собеседование.  
-4. Частые вопросы от компании.  
-5. Вопросы к компании.  
+1. What it means to prepare for an interview.
+2. Online interview.
+3. Offline interview.
+4. Frequent questions from the company.
+5. Questions for the company.
 
-В этом проекте ты:  
-- научишься составлять план при подготовке к собеседованиям;  
-- узнаешь частые вопросы от HR;  
-- узнаешь, какие этапы собеседования могут быть и как их успешно пройти.  
+In this project, you'll learn:
 
+- how to make a plan when preparing for interviews;
+- how to answer frequent questions from HR;
+- what stages a job interview can be divided into and how to successfully go through them.
 
-**Литература:** 
-1. ТОП 11 советов для идеального собеседования;  
-2. [Как подготовиться к собеседованию,  чтобы получить нужную должность?](https://habr.com/ru/post/652659/);  
-3. [3 совета перед интервью на стажировку в крупную компанию](https://journal.tinkoff.ru/internship-interview/).
+**References:**
 
+1. Top 11 tips for the perfect job interview;
+2. [How do you prepare for an interview to get the position you want?](https://habr.com/ru/post/652659/);
+3. [3 tips before interviewing for an internship at a large company](https://journal.tinkoff.ru/internship-interview/).
 
-<h2 id="chapter-ii">Chapter II</h2> 
-<h2 id="genеral-rules">Genеral rules</h2>  
+## Chapter II
+## General rules
 
-1. Всю дорогу тебя будет сопровождать чувство неопределенности и острого дефицита информации - это нормально. Не забывай, что информация в репозитории и Google всегда с тобой, так же как пиры и Rocket.Chat. Общайся, ищи, опирайся на здравый смысл и не бойся ошибиться.  
-2. Будь внимателен к источникам информации: проверяй, думай, анализируй, сравнивай.   
-3. Будь внимателен к тексту задания, перечитывай по нескольку раз.   
-4. Внимательно читай примеры. В них может быть что-то, что не указано в явном виде в самом задании.  
-5. Могут встретиться несоответствия, когда что-то новое в условиях задачи или примере противоречит уже известному. Если встретилось такое — попробуй разобраться. Если не получилось — запиши вопрос в перечень открытых вопросов и найдешь ответ в процессе работы. Не оставляй открытые вопросы неразрешенными.   
-6. Если задание кажется непонятным или невыполнимым — так только кажется. Попробуй его декомпозировать. Скорее всего, отдельные части станут понятными. 
-7. На пути тебе встретятся разные задания. Такие как, помеченные звездочкой (*) — подходят для более дотошных и пытливых. Эти задания с повышенной сложностью и не обязательны к выполнению, но если ты их сделаешь, то получишь дополнительный опыт и знания.  
-8. Не пытайся обмануть систему и окружающих. Ведь, в первую очередь ты обманываешь себя.  
-9. Есть вопрос? Спроси своего соседа справа, если это не помогло — соседа слева.  
-10. Когда пользуешься чей-либо помощью, то всегда разбирайся до конца: почему, как и зачем. Иначе помощь не будет иметь смысла.  
-11. Всегда делай push только в ветку develop! Ветка master будет проигнорирована. Работай в директории src.  
-12. В твоей директории не должно быть иных файлов, кроме тех, что обозначены в заданиях.  
+1. All along the way, you'll be accompanied by a sense of uncertainty and a severe lack of information. Don't worry: it's perfectly normal. Don't forget that the information in the repository and Google is always with you, as are the peers and Rocket.Chat. Communicate, search, use common sense and don't be afraid of mistakes.
+2. Be mindful of the sources of information: check, think, analyze, compare.
+3. Pay close attention to the text of the assignment, reread it several times.
+4. Read the examples carefully. There may be something in them that is not explicitly stated in the assignment itself.
+5. You may encounter inconsistencies when something new in a task condition or example contradicts something you already know. If you come across something like that, try to figure it out. If it doesn't work, put the question in the list of open questions, and you'll find the answer as you go along. Don't leave open questions unanswered.
+6. If a task seems incomprehensible or impossible to complete, remember that it's not true: you only see it this way. Try to deconstruct it, and certain parts will become clear.
+7. You'll encounter different tasks along the way. Those marked with an asterisk (\*) are suitable for the most meticulous and inquisitive students. These assignments are of higher difficulty and optional, but they'll help you gain additional experience and knowledge.
+8. Don't try to cheat the system and those around you. After all, you're fooling yourself first and foremost.
+9. Got a question? Ask your peers.
+10. When you resort to someone else's help, make sure you always understand why, how, and for what purpose. Otherwise, the help won't do you any good.
+11. Always _push_ only to the _develop_ branch! The _master_ branch will be ignored. Work in the _src_ directory.
+12. There should be no files in your directory other than those designated in the assignments.
 
-<h2 id="chapter-iii">Chapter III</h2> 
+## Chapter III
+## Preparing for the interview
+### What does it mean to prepare for an interview?
 
-## Подготовка к собеседованию 
-### Что значит подготовиться к собеседованию?  
-Какое интервью может быть:   
-- телефонное (обычно это быстрое интервью для дальнейшего приглашения на собеседование);  
-- скайп/зум интервью - онлайн-интервью;  
-- в офисе компании - оффлайн-интервью.    
+What an interview there could be:
 
-Перед тем как идти на интервью, необходимо сделать несколько важных шагов: 
-1. Прочитать про компанию и вакансию, куда тебя пригласили.  
-2. Посмотреть информацию и почитать статьи о нанимающем менеджере (если ты его знаешь), его авторские статьи, чтобы сложилась примерная картина о человеке.  
-3. Прорепетировать дома рассказ о себе и своих основных достижениях.   
-4. Подготовить одежду для внешнего вида.   
-5. Выспаться и прийти на собеседование с хорошим настроением.   
+- telephone (usually a quick talk for a further invitation to an interview);
+- skype/zoom interviews - online interviews;
+- in the company's office - offline interview.
 
-Рассмотрим два вида собеседования: 
+There are a few important steps to take before going for an interview:
 
-### Онлайн-собеседование   
-Сейчас это одна из самых популярных форм проведения интервью.  
-Основные правила при подготовке: 
-- Опрятный вид. Безусловно, первое правило опрятности никто не отменяет, как и при собеседовании оффлайн. Тут, конечно, дело обстоит проще, главное найти приличный верх: рубашку, кофту, платье.  
-Главное, не надевай домашний халат, майку, заляпанную футболку. Во-первых, это не придает тебе уверенности при прохождении собеседования, а во-вторых, это отвлекает рекрутера и срабатывают внутренние оценочные суждения. 
-- Интерьер.  Если у тебя сзади висят астрологические прогнозы и натальные карты, то собеседник может отвлекаться на них, поэтому фон лучше сделать нейтральным и не пестрым, чтобы не отвлекало от общения.  
-- Техническое устройство. Обязательно проверь перед собеседованием, что у тебя все работает и держи наготове дополнительную технику на случай форс-мажора. Бывают сложности с интернетом или зависает вдруг неожиданно комп, переключись быстро на телефон. Проверяй также наушники, чтобы звук и у тебя, и у собеседника был хороший.   
-- Тихое место. Постарайся убрать дополнительные шумы на фоне. Это получается не всегда и иногда невозможно предугадать будет ли ваш сосед сверлить? Но постарайся позаботиться об этом заранее.   
-- Время не для перекуса. Не ешь во время собеседования. Даже если ты будешь с безобидным яблоком на собеседовании, это все равно будет отвлекать.  
+1. Read about the company and the position you've been invited to.
+2. Look up information and read articles about the hiring manager (if you know him), look through his/her articles to get a rough picture of the person.
+3. Rehearse a story about yourself and your major accomplishments at home.
+4. Get your clothes ready
+5. Get a good night's sleep and show up to the interview in a good mood.
 
-### Оффлайн-собеседование   
-Собеседование в офисе сейчас проводятся реже, но в некоторых компаниях они проводятся регулярно.   
-Из основных правил:    
-- Опрятный вид. Необязательно надевать классический костюм, сейчас точно нет строгих правил. Важно, чтобы вид был чистый и опрятный.   
-- Маршрут построен. Заранее спланируй свой путь до офиса. Изучи карту, где находится офис, чтобы не опаздывать.
-- Предупреждай вовремя. Конечно, бывают форс-мажоры, но редко они случаются за минуту до собеседования. Поэтому планируй заранее свое время и старайся приходить во время.   
-- Беззвучный режим. Отключи средства связи, чтобы не отвлекаться во время собеседования. 
- 
-Помни, что не только тебя собеседуют на позицию, но и ты выбираешь компанию мечты. Поэтому обращай внимание, как проводят собеседование, какие вопросы задают и какая обстановка в офисе.  
+Let's consider two types of interviews:
 
-### Частые вопросы от компании  
-Лучший способ пройти успешно собеседование - подготовиться к нему. 
-Список часто встречаемых стандартных вопросов.    
- 
-Про твой опыт:
-1. HR задает детальные вопросы по опыту, которые относятся к вакансии. 
-2. Расскажи о своих проектах, которые не получились и чему ты научился?  
-3. Если ты часто менял работу (по 3-4 месяца), тебя обязательно спросят «Почему так часто меняли работу?»
-4. Если ты работаешь на момент собеседования в какой-либо компании, то жди вопрос «Почему хотите уходить с Х компании?»
-5. Если ты не работаешь на момент собеседования, то «Почему уволились из компании Х?» 
- 
-Про тебя как личность:
-1. Могут спросить «Назовите ваши сильные компетенции и почему так считаете?»
-2. Если меняешь профессию/сферу, тебя обязательно спросят «Почему переходите в новую сферу? Что вас мотивирует?»
-3. От чего ты получаешь удовольствие в работе?
-4. Что больше всего не нравится в работе?
-5. Назови компетенции, которые ты хотел бы улучшить? 
- 
-Про работу в команде:  
-1. Приведи пример конфликтной рабочей ситуации, как ты ее решал?  
-2. Были ли у тебя в подчинении люди? Как руководил командой?  
-3. Какие качества в людях тебе нравятся и ты ценишь?  
-4. Какие качества тебе важны в руководителе?   
-5. С каким человеком ты бы не смог работать?   
- 
-Про компанию: 
-1. Почему ты хочешь в нашу компанию?
-2. Чем заинтересовала компания/вакансия?
-3. Что ты уже знаешь или слышал о компании? 
- 
-Это список примерный и к нему всегда нужно подготовить ответы. 
+### Online interview
 
-### Вопросы к компании   
-Часто в конце собеседования спрашивают: “Какие у вас есть вопросы к нам?”. Если кандидат говорит "никаких" - это грустно для компании. Так как возможно компания расценит, что кандидат не сильно замотивирован работать с ними. Поэтому всегда готовь пару вопросов, которые тебе важны. 
+This is now one of the most popular forms of interviewing.
+ Here are some basic preparation rules:
 
-Пару вопросов-примеров: 
-1. Как выстраивается KPI в работе сотрудника?  
-2. Какой может быть карьерный рост сотрудника?  
-3. В связи с чем открыта вакансия?  
-4. Какие цели стоят на ближайшие полгода?  
-5. Как проходит процесс адаптации новичка в команде?  
-6. Расскажите про корпоративную культуру?  
-7. Как выглядит типичный день сотрудника?  
+- **Appearance counts** Certainly, you should dress neatly, just as you would for an offline interview. Of course, the online dress code is simpler. The main rule is to find a decent top: shirt, sweatshirt, dress. Please, don't wear a housecoat, tank top, stained T-shirts, etc. First, it doesn't give you confidence when interviewing, and second, it distracts the recruiter and triggers internal judgments.
+- **Your background** If you have astrological forecasts and natal charts hanging behind you, the interviewer may be distracted by them, so it is better to make the background neutral and not colorful, so as not to distract from the conversation.
+- **Technical equipment** Be sure to check before the interview that you have everything working and keep extra equipment on hand in case of force majeure. If you have difficulties with the connection or your computer freezes unexpectedly, switch quickly to your phone. Also check your headphones so that both you and the person you're talking to can hear everything.
+- **Quiet place** Try to remove any extra noise in the background. Of course, sometimes it's impossible to predict whether your neighbor will once again be repairing something or not. Nevertheless, try to take care of everything in advance.
+- **No time for a snack** Don't eat during the interview. Even if you eat an apple at an interview, it's still distracting.
 
-## Продумать заранее 
-### Карьерные цели  
-На собеседовании часто задают вопрос о твоих карьерных целях. Тут важно помнить о твоих реальных целях. Смотри Project 01. Если ты четко понимаешь к чему стремишься, работодатель это оценит, потому что ему будет понятна твоя мотивация. Понимание карьерной цели также говорит об ответственности кандидата. 
+### Offline interview
 
-Поэтому обязательно продумай заранее, как вакансия мечты поможет тебе продвинуться к карьерной цели в перспективе 1-2 лет и 3-5 лет.  
-Чем лучше ты продумаешь ответ для собеседования, тем выше шанс, что тебя рассмотрят на позицию. 
+Office interviews are now less common, but in some companies they are held regularly.
+ Here are some basic rules:
 
-### Вопросы о зарплате  
-Почти любой кандидат на собеседовании боится говорить о зарплате. Рассмотрим частые фразы: 
-_«Я боюсь говорить о зарплате, потому что вдруг я много попрошу и меня уволят?»_ — заниженная самооценка. 
+- **Appearance counts** You don't have to wear a classic suit, there are definitely no strict rules nowadays. It is important that you look clean and tidy.
+- **Plan your route** Plan your route to the office in advance. Study a map and find where the office is so you won't be late.
+- **Warn in time** Sure, there are force majeure events, but they rarely happen a minute before the interview. So, plan your time in advance and try to show up on time.
+- **Silent mode** Turn off your phone so you don't get distracted during the interview.
 
-_«Мне стыдно говорить о деньгах»_ — это вообще распространенная история особенно у людей постсоветского пространства, ведь тогда не было принято в целом говорить о деньгах в открытую, человек просто шел на работу и зарабатывал тот оклад, который назначала компания.
+Remember, you're not the only one being interviewed for a position, but you're choosing your dream company. So, pay attention to how the interview is conducted, what questions are asked, and what the office environment is like.
 
-_«Я не знаю сколько просить денег!»_ — незнание, как оценить свой труд, иногда обесценивание своего труда и свидетельствует о незнании рынка.  
+### Frequent questions from the company
 
-_«Я вообще не люблю просить деньги, ощущаю себя попрошайкой!»_ — неуверенность в себе.
+The best way to successfully pass an interview is to prepare for it. Here is a list of frequently asked questions.
 
-С каждым этим страхов надо работать, чтобы это не повлияло на твой уровень дохода.  
+Experience:
 
-**Каким образом решить все эти задачи?**
-Старайся быть в теме рынка аналитики зарплат. Всегда можно нагуглить информацию, какая средняя вилка специалистов:
-1. Существуют полезные ресурсы, которые публикуют аналитику зарплат ("Зарплатомер", "Обзор зарплат", "Труд" и др.). 
-2. Отчеты кадровых агентств, которые проводят аналитику зарплат, например, агентство Hays или Antal.   
+1. HR asks detailed experience questions that are relevant to the job.
+2. Tell us about your projects that didn't work out and what did you learn?
+3. If you've changed jobs often (working 3-4 months at a time), you're bound to be asked, "Why did you change jobs so often?".
+4. If you are employed at the time of the interview, you better expect the question "Why do you want to leave your company?".
+5. If you're not employed at the time of the interview, HR may ask you "Why did you quit the company?".
 
-**Для чего важно знать вилку?**
-Для ведения переговоров о зарплате, как и на стадии трудоустройства, так и при разговоре о повышении.  
+About you as a person:
 
-1. Знать просто вилку недостаточно. Ты не можешь прийти к своему руководителю и сказать: «Тут вот написано, что средняя зарплата у мидл-специалиста тестировщика 150 тысяч рублей.» Скорее всего он вам ответит: «И?» И если ты не сможете ответить на это «И», то разговор провален.  
+1. An interviewer may say: "Name your strongest competencies. Why did you name these particular competencies?".
+2. If you change careers/fields, you're bound to be asked "Why move to a new field?" "What motivates you?".
+3. What do you enjoy about your work?
+4. What do you dislike most about the job?
+5. What competencies would you like to improve?
 
-2. Подготовься к вопросу «Почему/за что работодатель должен повышать вам зарплату? Тут важно, что ты показываешь результаты и ваш труд в компании приносит пользу/деньги. Тогда и подготовьте небольшой отчет о проделанной работе. Что ты делал/Что сделаешь? Как было/Как стало? Что улучшилось благодаря твоей работе/Какие показатели стали больше/меньше за счет чего/каких ресурсов? Если у тебя не будет ответов на подобные вопросы — ты снова останешься с той зарплатой, какая была.  
-3. Посмотрите самостоятельно аналитику вакансий, которую ты делал в Project02.   
-4. Самооценка и неуверенность — глубокий запрос. Здесь можно почитать и литературу, а также сходить и проработать вопрос к психологу или коучу. Потому что оба эти специалиста с такими вопросами работают и помогают найти решение.
+About teamwork:
 
-Идеальная подготовка: исследования на анализ рынка + самостоятельная аналитика + твои результаты.
+1. Please, give me an example of a conflicting work situation. How did you resolve it?
+2. Did you manage people? How did you lead the team?
+3. What qualities do you like and appreciate in people?
+4. What qualities are important to you in a leader?
+5. What kind of person would you not be able to work with?
 
-Когда ты можешь говорить о зарплате?  
-1. Когда устраиваешься на новую работу.  
-2. Когда можно поговорить о повышении на действующей работе.   
+About the company:
 
-Если на первом собеседовании с hr тебя спрашивают про желаемую зарплату, то можно сказать так: «Я бы сначала обсудил/обсудила все задачи/цели, которые от меня зависят и смог оценить свой труд». Обсуждай уже реальные цифры с нанимающим менеджером исходя из реальных задач. 
+1. Why do you want to join our company?
+2. What made you interested in the company/job?
+3. What do you already know or have heard about the company?
 
-Можно перенести ответственность на вопрос к самому HR и спросить: «Скажите, а на какую вилку вы рассматриваете сейчас кандидатов, для того, чтобы понять интересно мне будет рассмотреть предложение или нет?»  hr может тоже, конечно, ответить, например: «Ну, зависит от опыта.» Тогда можно вернуться к предыдущему совету и сказать, что готовы обсудить после того, как поймете какие задачи и цели стоят перед кандидатом.  
+This list is exemplary and you should always be ready for such questions.
 
-Как только ты решаешь обозначить вилку зарплаты, то тебе необходимо изучить рынок и посмотреть исследования на тему зарплат. Обычно кандидаты уходят с предыдущей работы на новую с повышением зп минимум на 10–15% (Конечно, надо смотреть еще на задачи и релевантность твоего опыта).  
-Если же ты меняешь направление/сферу деятельности, то в зарплата может быть меньше. Но важно знать вилку и для новой сферы, даже если ты идешь на позицию джуна.
+### Questions for the company
 
-**Стратегии переговоров**  
-1. Не начинай собеседование или телефонное интервью с вопроса: «А сколько вы платите? Какая зарплата?»  
-2. Поговори сначала о задачах, целях, какие kpi должны выполняться?  
-3. Подготовь ответ на вопрос почему рассматриваете такую-то вилку? (Нужно привести аргументы в пользу своей прошлой работы, что вы сделали, каких результатов достигли).    
+Often at the end of a job interview HR asks: "What questions do you have for us?". If your answer is "I don't have any questions", it's not a good thing: HR may feel that the candidate is not highly motivated to work with them. So always have a couple questions ready that are important to you.
 
-**Как оценить реальную стоимость:**  
-1. Пообщаться с hr, сходить на собеседование;  
-2. Почитать аналитику рынка;  
-3. Сделать самостоятельно аналитику рынка твоей профессии.  
+A couple of sample questions:
 
-**Подведем итоги:**
-1. Разберись со своими страхами и проработай их, чтобы это не повлияло на уровень твоего дохода.
-2. Изучи аналитику зарплат.
-3. Говори о зарплате с позиции твоих результатов.  
+1. How is the KPI of an employee's performance measured?
+2. What are my career opportunities?
+3. Why is the vacancy open?
+4. What are your goals for the next six months?
+5. How is the process of adaptation of a newcomer to the team organized?
+6. Could you tell me about your corporate culture?
+7. What does a typical employee's day look like?
 
-### Неудобные и нетактичные вопросы  
-К сожалению, не всегда HR или нанимающий менеджер может быть тактичен в вопросах. Типичные вопросы, которые могут вызвать недоумение:  
+## Think ahead
+### Career goals
 
-“Планируете ли вы беременность?”  
-“Почему у вас нет мужа/жены?”  
-“Сколько зарабатывает ваш молодой человек?”  
-“Что жена/муж думает о ваших карьерных амбициях?”  
-“Кто вы по гороскопу?”  
-Также могут быть вопросы о религиозной принадлежности, политических взглядах. 
+Interviewers often ask job seekers about their career goals. Keep your real goals in mind. Look at your Project 01. If you are clear about what you are aiming for, the employer will appreciate it because he/she will understand your motivation. Understanding the career goal also reflects the candidate's responsibility.
 
-Что делать в таких ситуациях и как отвечать на вопрос от работодателя?  
-1. Спроси работодателя, почему эти вопросы ему так важны и как это соотносится с позицией, на которую собеседуетесь?   
-2. Если работодатель настаивает на этих вопросах, то завершите собеседование, если тебе не комфортно.   
-3. При таких вопросах тебе придется выбирать, либо разделять корпоративную культуру компании и отвечать на вопрос, либо поймете, что с этой компанией тебе не по пути.   
-4. Иногда такие странные вопросы могут задавать, чтобы посмотреть, как кандидат ведет себя в стрессовой ситуации. Одно время были популярны стресс-интервью. Однако сейчас их стало меньше, но ты можешь с ними столкнуться. 
-5. Попробуй перевести в уместную шутку ответ на подобные вопросы.   
+So be sure to think ahead of time about how the dream job will help you move toward your career goal in 1-2 and 3-5 years.
+ The better you think through your answer, the better chance you have of being considered for the position.
 
-## Самопрезентация  
-### Уметь себя представить и грамотно рассказать о себе, показать свою ценность  
+### Salary questions
 
-Рассказ о себе часто вызывает множество вопросов у кандидата. А это самый первый вопрос от нанимающего менеджера или HR. 
-Как на него ответить? - Иметь структуру и подготовиться к ответу. 
+Almost any candidate in a job interview is afraid to talk about salary. Consider the following phrases: _"I'm afraid to talk about salary because what if I ask for too much and get rejected?"_. It reflects low self-esteem.
 
-**Не надо** - заучивать рассказ о себе. При волнении ты можешь сбиться и растеряться, поэтому лучше держать план в голове, в блокноте или телефона. 
+"I'm ashamed to talk about money" - this is a common behavior pattern among Russian people who remembered Soviet life, because then it was inappropriate to talk openly about money, a person just worked and earned the salary that the company assigned.
 
-**План рассказа о себе:**  
-1. Кто ты? - Твоя профессия, сколько в профессии лет. 
-2. Где учился, какое у тебя образование? 
-3. Чем ты занимался последние 5-7 лет в карьере? - рассказать коротко о задачах и результатах. 
-4. Где ты работаешь сейчас и за что отвечаешь? - рассказать подробнее про обязанности и результаты на текущей деятельности. 
-5. Твои карьерные цели, твоя мотивация. 
+_"I don't know how much money to ask for!"_ - it indicates ignorance of how to value one's labor, devaluing one's labor and/or lack of market knowledge.
 
-[Пример рассказа о себе](materials/Пример_рассказа_о_себе.pdf)
+_"I don't like asking for money at all, I feel like a beggar!"_ – it reflects insecurity.
 
-### О чем не стоит рассказывать на собеседовании   
-В процессе прохождения собеседования категорически не рекомендуется:
-- Обсуждать на первом собеседовании свои личные проблемы. 
-- Спрашивать первые вопросы о том, какая зарплата. 
-- Осуждать прошлого работодателя (даже если вы расстались в плохих отношениях). 
-- Задавать нетактичные вопросы о сотрудниках. 
-- Поднимать вопросы религии и политики.  
+Each of these fears has to be worked with so that it doesn't affect your income level.
 
-<h2 id="chapter-iv">Chapter IV</h2>  
+**What is the solution to all these challenges?** Try to stay on top of the salary analytics market. You can always google what the average salary range for specialists is:
 
-## Задача 
+1. There are useful resources that publish salary analytics (Zarlatometer, Salary Survey, Labor etc.).
+2. You can look at the reports from staffing agencies that perform salary analytics, such as Hays or Antal.
 
-Представь, что тебя позвали на собеседование в компанию мечты. Подготовь ответы на 5 типичных вопросов от HR. И проверь HR - задай 5 вопросов компании.   
+**Why do you need to know your salary range?** To negotiate salary both at the recruitment stage and when talking about a raise.
 
-<h2 id="chapter-v">Chapter V</h2>  
+1. Just knowing the salary range is not enough. You can't go to your manager and say: "It says here that the average salary of a Mid-Level Software Test Engineer is 1500 USD." Most likely, he or she will say something like: "So what?". And if you don't have the right answer, you won't get what you want.
+2. Prepare yourself for the question "Why should an employer raise your salary?" What matters here is that you are showing results and your hard work in the company is making a difference/money. Then prepare a little progress report. What did you do? What have you accomplished? How was \*something\*/how is it now? What has improved as a result of your work/what indicators have increased/decreased due to what/what resources? If you don't have answers to questions like that, you're back to being left with the paycheck you had.
+3. Look for yourself at the job analytics you did in Project02.
+4. Self-esteem and insecurity are very complex and deep issues. You can address psychological literature, or go and work through the issue with a psychologist or coach. Both of these professionals deal with these issues and help find a solution.
 
-## Exercise 00 
-### 5 вопросов от HR 
-Подготовь 5 ответов в письменном виде на следующие вопросы для вакансии, которую ты выбрал в Project02:  
-1. Расскажи о своих проектах, которые не получились и чему научился?  
-2. Если ты работаешь на момент собеседования в какой-либо компании, то жди вопрос «Почему хотите уходить с Х компании?» / Если ты не работаешь на момент собеседования, то «Почему уволились из компании Х?»  
-3. От чего ты получаешь удовольствие в работе?  
-4. Приведите пример конфликтной рабочей ситуации, как ты ее решал? 
-5. Чем заинтересовала компания/вакансия?  
+Ideal preparation consists of: studying market research + your own analytics + your results.
 
-## Exercise 01 
-### 5 вопросов к HR  
-Изучи сайт компании по вакансии, которую ты выбрал и задай 5 вопросов компании, исходи из своих карьерных целей (посмотри Project01). 
+When can you talk about paychecks?
 
-## Exercise 02 
-### Подготовь рассказ о себе  
-Представь, что ты собеседуешься на вакансию мечты. Тебя пригласили на собеседование и задают вопрос “Расскажи о себе”. Запиши видео-ответ (не более 3 минут) на этот вопрос. 
-Прикрепи ссылку к видео. 
+1. When you start a new job.
+2. When you can talk about a promotion at your current job.
 
->Пожалуйста, оставь обратную связь по проекту в [форме обратной связи.](https://forms.gle/GbM7Sp2wCPQSyBfY8)
+If you are asked about your desired salary at your first interview, you can say: "I would first discuss all my tasks/objectives, then I'll be able to assess the cost of my work." Discuss the real numbers based on the actual tasks with the hiring manager.
+
+You can shift the responsibility for the question to HR himself/herself and ask: "Can you tell me what salary range you are currently offering candidates? I need to figure out if I'm going to consider the offer or not". The HR manager, of course, can give you an answer like: "Well, it depends on the candidate's experience". Then you can go back to the previous advice and say that you are willing to discuss it after you understand what the candidate's tasks and goals are.
+
+Once you decide to designate a salary range, you need to research the market and look at salary studies. Usually, candidates leave their previous job for a new one with a minimum 10-15% increase in salary (Of course, you should look at the tasks and relevance of your experience).
+ If you change the direction/field, the salary may be less. But it's important to know the range for a new field as well, even if you're going for a junior position.
+
+**Negotiation strategies**
+
+1. Don't start an online or offline interview with a question: "And how much are you paying? What's the paycheck?".
+2. Talk first about objectives, goals, what KPIs need to be met.
+3. Prepare an answer to the question: Why are you considering this range? (You need to give arguments about the results of your past work, what you did, what results you achieved).
+
+**How to estimate the real cost of your work:**
+
+1. Talk to HR, go for an interview;
+2. Study market analysis;
+3. Do your own market analysis.
+
+**Let's summarize:**
+
+1. Deal with your fears and work through them so it doesn't affect your income level.
+2. Study salary analytics.
+3. Talk about salary from the perspective of your results.
+
+### Uncomfortable and inappropriate questions
+
+Unfortunately, HR or your hiring manager may not always be tactful in their questions. Here are some typical questions that can be perplexing:
+
+"Are you planning a pregnancy?"
+ "Why don't you have a husband/wife?"
+ "How much does your husband/wife earn?"
+ "What does your wife/husband think about your career ambitions?"
+ "What is your star sign?"
+ There may also be questions about religious beliefs, political views etc.
+
+What to do in such situations and how to respond to a question from an employer?
+
+1. Ask the employer why these questions are important to him or her and how it relates to the position you are interviewing for.
+2. If the employer insists on these questions, end the interview if you're uncomfortable.
+3. With questions like that, you have to choose to either share the company's corporate culture and answer the question or realize that this company is not the right fit for you.
+4. Sometimes these odd questions may be asked to see how a candidate behaves in a stressful situation. Stress interviews were popular at one time. However, these interviews are rare now, but you may encounter them.
+5. Try to transform an answer to questions like this into an appropriate joke.
+
+## Self-presentation
+### You need to be able to present yourself and speak intelligently about yourself and show your value
+
+Talking about yourself often seems difficult for the candidate. Nevertheless, this is usually the very first question from the hiring manager or HR. How to answer it? You need to have a structure and prepare for the answer.
+
+**You don't have to memorize a story about yourself.** When you are nervous, you can get confused and lose focus, so it's better to keep the plan in your mind, in a notebook, or in your phone.
+
+**A plan to tell a story about yourself:**
+
+1. Who are you? - your profession, how many years you've been in the profession.
+2. Where did you go to university, what's your educational background?
+3. What have you been doing the last 5-7 years in your career? - give a brief summary of the objectives and results.
+4. Where do you work now and what are you responsible for? - tell the interviewer more about your current responsibilities and results.
+5. Your career goals and motivation.
+
+[Example of a story about yourself](materials/Пример_рассказа_о_себе.pdf)
+
+### What not to talk about in a job interview
+
+During the interview process, it is strongly discouraged:
+
+- To discuss your personal problems at the first interview.
+- To ask the first questions about salary.
+- To judge a past employer (even if you parted on bad terms).
+- To ask inappropriate questions about employees.
+- To raise issues of religion and politics.
+
+## Chapter IV
+## Task 1
+
+Imagine you've been called for an interview at your dream company. Prepare answers to 5 typical questions from HR. Check your HR: ask the company five questions.
+
+## Chapter V
+## Exercise 00
+### 5 questions from HR
+
+Prepare 5 written answers to the following questions for the position you selected in Project02:
+
+1. Tell us about your projects that didn't work out. What did you learn?
+2. If you are employed at the time of the interview, you should expect the question "Why do you want to leave your company?" If you're not employed at the time of the interview, they may ask you "Why did you quit the company?".
+3. What do you enjoy about your work?
+4. Please, give me an example of a conflicting work situation. How did you resolve it?
+5. What made you interested in the company/job?
+
+## Exercise 01
+### 5 questions for HR
+
+Research the company website for the job you chose and ask HR 5 questions according to your career goals (check out Project01).
+
+## Exercise 02
+
+### Prepare a story about yourself
+
+Imagine that you're interviewing for your dream job. You've been invited to a job interview and are asked the question: "Tell me about yourself". Record a video response (no more than 3 minutes) to this question. Attach a link to the video.
+
+>Please leave feedback on the project in the [feedback form.](https://forms.gle/GbM7Sp2wCPQSyBfY8)
