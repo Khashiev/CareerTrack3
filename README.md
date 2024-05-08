@@ -48,7 +48,7 @@ In this project, you'll learn:
 
 **References:**
 
-1. Top 11 tips for the perfect job interview;
+1. [Top 11 tips for the perfect job interview](https://career.guru99.com/ru/how-to-prepare-for-an-interview/);
 2. [How do you prepare for an interview to get the position you want?](https://habr.com/ru/post/652659/);
 3. [3 tips before interviewing for an internship at a large company](https://journal.tinkoff.ru/internship-interview/).
 
